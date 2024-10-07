@@ -11,5 +11,11 @@ td {
 .interactive {
   background-color: pink;
 }
-gd {
+.gd {
+  background-color: lightblue;
+}
+
+main h3 {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
 }
