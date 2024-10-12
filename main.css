@@ -12,7 +12,35 @@ td {
   background-color: pink;
 }
 .gd {
+  background-color: rgb(74, 182, 218);
+}
+
+.dl {
   background-color: lightblue;
+}
+
+.study {
+  background-color: lightsteelblue;
+  color: rgb(139, 226, 255);
+}
+
+.photography {
+  background-color: rgb(236, 236, 160);
+}
+
+.st {
+  background-color: rgb(197, 226, 197);
+}
+
+.kuben {
+  background-color: lightsalmon;
+}
+
+.mg {
+  background-color: rgb(148, 167, 117);
+}
+.ss {
+  background-color: grey;
 }
 
 main h3 {
