@@ -1,3 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 50%;
+}
+
 table,
 th,
 td {
@@ -6,6 +19,7 @@ td {
 }
 td {
   padding: 10px;
+  text-align: center;
 }
 
 .interactive {
